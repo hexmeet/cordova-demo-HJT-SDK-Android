@@ -5,13 +5,12 @@
 ### 快速开始
 - 获取项目并安装平台和插件
         
-        ```shell
         npm install -g cordova
         git clone https://github.com/hexmeet/cordova-demo-HJT-SDK-Android.git
         cd cordova-demo-HJT-SDK-Android
         cordova platform add android
         cordova plugin add  https://github.com/hexmeet/cordova-plugin-HJT-SDK-Android.git
-        ```
+        
 - 配置文件，根据 **/plugin/HjtCordova/README.md** 配置 **paltforms/android/app/build.gradle**
 - 运行项目
 
