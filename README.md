@@ -38,4 +38,6 @@
     cordova plugin add "../cordova-plugin-HJT-SDK-Android"
 更新版本之前需要先卸载:
 
-    cordova plugin remove HjtCordova> Last Updated: Mon May 27 11:44:10 CST 2019 (85e9905ad71b9eb3636a2ad7724d740962b4e75b)
+    cordova plugin remove HjtCordova
+    
+> Last Updated: Mon May 27 11:44:10 CST 2019 (85e9905ad71b9eb3636a2ad7724d740962b4e75b)
