@@ -1,0 +1,12 @@
+merges
+node_modules
+platforms
+plugins
+package-lock.json
+npm-debug.log
+
+.DS_Store
+.vscode
+.*.sw*
+*.iml
+.idea
