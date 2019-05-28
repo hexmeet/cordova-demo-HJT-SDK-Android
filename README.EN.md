@@ -8,8 +8,8 @@ A demo that use cordova-plugin-HJT-SDK-Android.
         git clone https://github.com/hexmeet/cordova-demo-HJT-SDK-Android.git
         cd cordova-demo-HJT-SDK-Android
         cordova platform add android
-        cordova plugin add  https://github.com/hexmeet/cordova-plugin-HJT-SDK-Android.git
-- configure **paltforms/android/app/build.gradle** according to **/plugin/HjtCordova/README.md**
+        cordova plugin add https://github.com/hexmeet/cordova-plugin-HJT-SDK-Android.git
+- configure **/platforms/android/app/build.gradle** according to **/plugin/HjtCordova/README.md**
 - run on android
 
         cordova run android
@@ -28,7 +28,7 @@ The plugin creates the object **cordova.plugins.HjtCordova** and is accessible a
         }
     );
 
-#### Other
+### Other
 You can install from your local disk:
 
     git clone https://github.com/hexmeet/cordova-plugin-HJT-SDK-Android.git
@@ -37,3 +37,5 @@ You can install from your local disk:
 Update to the latest local version, remove it first with:
 
     cordova plugin remove HjtCordova
+
+
