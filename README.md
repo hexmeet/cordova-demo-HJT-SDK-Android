@@ -1,5 +1,5 @@
 # cordova-demo-HJT-SDK-Android
-使用cordova-plugin-HJT-SDK-Android的示例
+使用 [cordova-plugin-HJT-SDK-Android](https://github.com/hexmeet/cordova-plugin-HJT-SDK-Android) 的示例
 
 ### 快速开始
 - 获取项目并安装平台和插件
@@ -9,7 +9,6 @@
         cd cordova-demo-HJT-SDK-Android
         cordova platform add android
         cordova plugin add https://github.com/hexmeet/cordova-plugin-HJT-SDK-Android.git
-- 配置文件，根据 **/plugin/HjtCordova/README.md** 配置 **/platforms/android/app/build.gradle**
 - 运行项目
 
         cordova run android
@@ -33,10 +32,10 @@
 
     git clone https://github.com/hexmeet/cordova-plugin-HJT-SDK-Android.git
     cd cordova-demo-HJT-SDK-Android
-    cordova plugin add "../cordova-plugin-HJT-SDK-Android"
+    cordova plugin add ../cordova-plugin-HJT-SDK-Android
 更新版本之前需要先卸载:
 
     cordova plugin remove HjtCordova
 
 
-> Last Updated: Tue May 28 21:57:59 CST 2019 (678a9619cf25eefeb91b203461bd8d8c54f3b225)
+> Last Updated: Fri Jun 21 15:18:05 CST 2019 (6a212ec0009f2dffd2093de06aa60b9527b8371e)
